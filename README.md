@@ -23,7 +23,7 @@ This application provides reliable, evidence-backed answers to student and publi
 
 ## 🎥 Demonstration Video
 You can watch the complete 3-5 minute demo video covering all required test scenarios (factual lookups, multi-doc fusion, policy comparison, missing info, and prompt-injection resistance) here:
-👉 **[Watch NED Academy Assistant Demo Video]([https://drive.google.com/file/d/1_rCZ_jiSnT_EeSRklDB1QckSxaZvnh-J/view?usp=sharing](https://drive.google.com/file/d/1LOEyTxgZvLQ2OFZ8rdDA1x5hcqdhYmxy/view?usp=sharing))**
+👉 **[Watch NED Academy Assistant Demo Video](https://drive.google.com/file/d/1LOEyTxgZvLQ2OFZ8rdDA1x5hcqdhYmxy/view?usp=sharing)**
 
 ## 📂 Project Structure
 ```text
